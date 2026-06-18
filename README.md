@@ -1,4 +1,5 @@
 # Product Performance Analysis & Return Impact Investigation
+Interactive Power BI dashboard analyzing product performance, profitability, regional trends, and return behavior through business intelligence reporting.
 
 ## Project Overview
 
@@ -6,9 +7,12 @@ This project analyzes product performance, profitability, regional trends, and r
 
 The dashboard was designed as an interactive business intelligence solution that allows users to explore revenue, profit, profit margins, production costs, regional performance, category performance, and return activity through filters, drilldowns, and dynamic visualizations.
 
+# Dashboard Preview
+
 The project consists of two dashboard pages:
 
-**Page 1 – Product Performance Analysis**
+### Page 1 – Product Performance Analysis
+<img width="1303" height="738" alt="image" src="https://github.com/user-attachments/assets/36f26415-1e82-4302-b27b-704bf27c7bcf" />
 
 * Business performance overview
 * Revenue and profit trends
@@ -16,13 +20,17 @@ The project consists of two dashboard pages:
 * Regional performance
 * Return percentage overview
 
-**Page 2 – Analysis on Returns**
+### Page 2 – Analysis on Returns
+<img width="1307" height="739" alt="image" src="https://github.com/user-attachments/assets/c9eb9209-26ae-45b0-8fa4-2001ceefa8fc" />
 
 * Return-focused investigation
 * Return rates by category
 * Return trends over time
 * Product return analysis
 * Regional return analysis
+
+### Drilldown Example
+<img width="1303" height="732" alt="image" src="https://github.com/user-attachments/assets/0ae1781d-79e3-4ea1-9318-06d43b0df5b6" />
 
 ---
 
@@ -231,12 +239,3 @@ Potential future enhancements include:
 3. Navigate between the Product Performance Analysis page and the Analysis on Returns page.
 4. Interact with visuals to explore category, product, and regional performance.
 5. Use drilldowns where available to investigate trends at a deeper level.
-
----
-
-# Dashboard Screenshots
-
-<img width="1303" height="738" alt="image" src="https://github.com/user-attachments/assets/36f26415-1e82-4302-b27b-704bf27c7bcf" />
-<img width="1307" height="739" alt="image" src="https://github.com/user-attachments/assets/c9eb9209-26ae-45b0-8fa4-2001ceefa8fc" />
-<img width="1303" height="732" alt="image" src="https://github.com/user-attachments/assets/0ae1781d-79e3-4ea1-9318-06d43b0df5b6" />
-
